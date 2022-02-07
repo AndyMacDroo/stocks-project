@@ -6,6 +6,12 @@ This is a project created for mentoring purposes to provide some introduction to
 
 * [nodejs >= 14](https://nodejs.org/en/)
 
+## Installing Dependencies
+
+In the project directory run:
+
+* `npm i` or `npm install`
+
 ## Starting the Project
 
 In the project directory, you can run:
