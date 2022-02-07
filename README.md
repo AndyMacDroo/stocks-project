@@ -1,5 +1,7 @@
 # Stocks Project
 
+This is a project created for mentoring purposes to provide some introduction to learning React and other web development concepts.
+
 ## Pre-requisites:
 
 * [nodejs >= 14](https://nodejs.org/en/)
