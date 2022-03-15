@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+table {
+  border: 2px solid forestgreen;
+  width: 800px;
+  height: 200px;
+  margin-left: 50px;
+  overflow: scroll;
+}
+  
+th {
+  border-bottom: 1px solid black;
+}
+  
+td {
+  text-align: center;
+}
+
+.data_table {
+height: 300px;
+overflow-anchor: top;
+overflow-y: scroll;
+}
